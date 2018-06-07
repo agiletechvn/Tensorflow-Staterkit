@@ -32,6 +32,6 @@ Result is as following:
 
 ## Reference
 
-[tensorflow slides]: https://goo.gl/Gdas41
+[Tensorflow slides](https://goo.gl/Gdas41)
 
 _Disclaimer: If there was a problem, remember to set PYTHONPATH to the python's site-packages_
