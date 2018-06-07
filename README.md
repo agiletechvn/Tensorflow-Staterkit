@@ -30,4 +30,8 @@ Result is as following:
 `python3 test_accuracy.py 300`
 ![Mnist test](mnist_test.png)
 
+## Reference
+
+[tensorflow slides]: https://goo.gl/Gdas41
+
 _Disclaimer: If there was a problem, remember to set PYTHONPATH to the python's site-packages_
